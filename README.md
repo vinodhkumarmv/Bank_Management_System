@@ -29,7 +29,7 @@ entry, validation confirm and updating whiles the interactive system deals with 
 interaction with the administration and users. Thus, above features of this project will save
 transaction time and therefore increase the efficiency of the system 
 
-#Technologies used:
+Technologies used:
 
 Frontend - JAVA
 
