@@ -1,6 +1,6 @@
 # Bank_Management_System
 
-#Abstract
+ABSTRACT:-
 
 The Bank Account Management System is an application for maintaining a person's account in a
 bank. In this project I tried to show the working of a banking account system and cover the basic
@@ -30,5 +30,8 @@ interaction with the administration and users. Thus, above features of this proj
 transaction time and therefore increase the efficiency of the system 
 
 #Technologies used:
+
 Frontend - JAVA
+
 Backend  - MySQL Using XAMPP server
+
