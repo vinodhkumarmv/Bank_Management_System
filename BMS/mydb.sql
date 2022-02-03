@@ -11,6 +11,3 @@ create table AccountDetails(formno varchar(20), atype varchar(20), cardno varcha
 create table login(formno varchar(20), cardno varchar(30), pin varchar(20), foreign key (formno) references signup(formno) on delete cascade);
 
 create table bank(pin varchar(10), date varchar(40), mode varchar(30), amount varchar(20));
-
-
-ayemdazzo@gmail.com
